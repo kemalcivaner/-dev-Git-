@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Bu repo [kodluyoruz](https://academy.patika.dev/tr/courses/git/odev1) Front-End eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası barındırıyor.
+Bu repo [kodluyoruz](https://academy.patika.dev/tr/courses/git/odev1) Veri Bilimi Patikası eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası barındırıyor.
 
 **Installation
 öncelikle projeyi clonelayın 
